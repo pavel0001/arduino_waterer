@@ -45,7 +45,3 @@ This is an automatic watering system project for Arduino. The project includes a
 This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 Feel free to modify and distribute the project as you like.
-
----
-
-This README file provides an overview of the automatic watering system project. It includes a brief description of the project, its features, hardware setup, code explanation, usage, note, and license. The information provided in this file should be enough to understand the project and use it as intended.
